@@ -23,4 +23,4 @@ int main()
 		solution(s);
 	}
 	return 0; 
-}
+}//alo
